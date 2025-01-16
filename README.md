@@ -5,6 +5,8 @@ In today’s ever-evolving business landscape, companies leverage technology to 
 
 This project focuses on identifying major customer segments for a **UK-based online retail business** that primarily sells unique, all-occasion gifts to both individual customers and wholesalers. The dataset spans transactions from **01/12/2009 and 09/12/2011**, offering a rich opportunity to analyze customer behavior and uncover actionable insights. For this analysis, I have only considered 1 year's data i.e., '01/12/2009 - 09/12/2010'.
 
+The dataset used for this analysis is publicly available and can be accessed [here](https://archive.ics.uci.edu/ml/datasets/online+retail).
+
 ![Image](https://github.com/user-attachments/assets/5086045f-04bf-4384-b292-3afce15d7630)
 
 ---
