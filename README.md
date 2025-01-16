@@ -5,7 +5,8 @@ In today’s ever-evolving business landscape, companies leverage technology to 
 
 This project focuses on identifying major customer segments for a **UK-based online retail business** that primarily sells unique, all-occasion gifts to both individual customers and wholesalers. The dataset spans transactions from **01/12/2009 and 09/12/2011**, offering a rich opportunity to analyze customer behavior and uncover actionable insights. For this analysis, I have only considered 1 year's data i.e., '01/12/2009 - 09/12/2010'.
 
-2010-12-09 2009-12-01
+![Image](https://github.com/user-attachments/assets/5086045f-04bf-4384-b292-3afce15d7630)
+
 ---
 
 ## **The Need for Customer Segmentation**  
@@ -43,13 +44,18 @@ The methodology followed in this project consists of the following steps:
 - **Geography**: The majority of purchases originate from the **United Kingdom**.  
 - **Purchasing Patterns**: Peak purchasing days are **Thursday, Wednesday, and Tuesday**, with the highest sales recorded during **November, October, and December**.  
 
-### **Clustering Insights**  
+### **Clustering Insights** 
+
+![Image](https://github.com/user-attachments/assets/d34b3f98-46b4-44b7-a90a-1376179820ed)
+
 Using the KMeans algorithm, the optimal number of clusters was determined to be four. Each cluster represents a unique customer group with distinct behaviors, and targeted strategies can be developed for each:
 
 - Retain: Customers who frequently shop and have high spending patterns. These are loyal, high-value customers. Strategy: Offer exclusive rewards, personalized services, and loyalty programs to ensure retention.
 - Re-Engage: Customers who have decreased activity over time but were previously active. Strategy: Use re-engagement campaigns, discounts, and reminders to bring them back.
 - Nurture: New or low-spending customers with growth potential. Strategy: Encourage more frequent purchases through promotions, bundled offers, or targeted content.
-- Reward: High-spending customers who purchase infrequently but have significant monetary value. Strategy: Provide incentives such as occasional discounts, premium membership offers, or personalized communication to reward their loyalty. 
+- Reward: High-spending customers who purchase infrequently but have significant monetary value. Strategy: Provide incentives such as occasional discounts, premium membership offers, or personalized communication to reward their loyalty.
+
+![Image](https://github.com/user-attachments/assets/7bb5e149-bca9-426e-b498-43898445e452)
 
 ---
 
